@@ -1,0 +1,14 @@
+# Ignore the following folders
+/Library/
+/Temp/
+/Build/
+/bin/
+
+# Ignore the following file extensions
+*.DS_Store
+*.s
+*.csproj
+*.unityproj
+*.sln
+*.userprefs
+
